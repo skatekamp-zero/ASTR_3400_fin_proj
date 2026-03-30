@@ -1,0 +1,17 @@
+what up fools
+
+change your status below when you have access
+
+Joshua - not here
+Zero   - here
+Levi   - not here
+Nick   - not here
+
+
+
+
+rules so far:
+pull a version of the master file
+make a local copy with "_TEMP_your initials" in your sci server
+make changes there
+when Joshua approves a change he will update the master file and do a git push

@@ -18,5 +18,3 @@ when Joshua approves a change he will update the master file and do a git push
 
 
 
-Personal Access Token in case we need it (PAT):
-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

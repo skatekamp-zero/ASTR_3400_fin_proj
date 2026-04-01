@@ -1,9 +1,9 @@
 what up fools
 
-change your status below when you have access
+change your status below from "not here" to "repo pulled" when you have access
 
 Joshua - not here
-Zero   - here
+Zero   - repo pulled
 Levi   - not here
 Nick   - not here
 
@@ -15,3 +15,8 @@ pull a version of the master file
 make a local copy with "_TEMP_your initials" in your sci server
 make changes there
 when Joshua approves a change he will update the master file and do a git push
+
+
+
+Personal Access Token in case we need it (PAT):
+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

@@ -5,7 +5,7 @@ change your status below from "not here" to "repo pulled" when you have access
 Joshua - not here
 Zero   - repo pulled
 Levi   - repo pulled
-Nick   - not here
+Nick   - repo pulled
 
 
 
